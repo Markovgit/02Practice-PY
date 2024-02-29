@@ -1,0 +1,3 @@
+Hi this is my first practice/work with python 
+I'm trying my best to learn the basics through these examples.
+

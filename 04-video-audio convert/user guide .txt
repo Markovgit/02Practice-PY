@@ -1,0 +1,5 @@
+start the program 
+
+click the upload button 
+select the video you want to convert to audio 
+click convert video

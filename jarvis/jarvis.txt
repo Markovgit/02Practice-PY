@@ -1,0 +1,2 @@
+My plan was to build Jarvis an AI assistant  with some basic commands. 
+This is just a practice work .
